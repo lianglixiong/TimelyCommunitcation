@@ -1,0 +1,8 @@
+node_modules/*
+webdemo/im/chatroom/node_modules/*
+npm-debug.log
+.vscode
+yarn.*
+API指南/*
+开发文档/*
+js/*
